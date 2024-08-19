@@ -1,0 +1,146 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+/* navbar section  */
+body{
+    overflow-x: hidden;
+}
+.navbar{
+    background-color: rgb(71, 71, 145);
+    color: white !important;
+
+}
+.navbar-brand{
+    font-size: 26px;
+    font-family: "Ga Maamli", sans-serif;
+ 
+}   
+.btn-nav{
+    background-color: rgb(43, 43, 119);
+    color: aliceblue;
+    width: 124px;
+    border-radius: 35px;
+    height: 50px;
+}
+/* section end */
+/* home section */
+.home{
+    background-color: rgb(71, 71, 145) ;
+    color: white;
+
+}
+/* section end */
+/* b-home-about start   */
+.b-home-about{
+    background-color: cornsilk;
+
+}
+.btn-home{
+    background-color: rgb(43, 43, 119);
+    color: aliceblue;
+    width: 124px;
+    border-radius: 35px;
+    height: 50px;
+}
+/* section end */
+/* about section  */
+.about{
+    text-align: center;
+    color: darkblue;
+    font-weight: 700;
+}
+.png-about{
+    width: 20px;
+}
+.ul-about{
+    list-style-type: none;
+}
+
+
+
+/* section end */
+/* Services section  */
+.services{
+    
+    text-align: center;
+    color: darkblue;
+    font-weight: 700;
+    
+}
+.services-1{
+    
+    text-align: center;
+}
+
+.card1{
+    background-color: white;
+    border: 6px solid  #eaf1fc;
+}
+
+
+
+.services-end{
+    background-image: url(Images/skyscraper-8373617_640.jpg);
+    opacity: 0.9;
+    
+    color: white;
+}
+/* section end */
+
+/* team section  */
+.team-1{
+    border-radius:30px ;
+}
+/* section end */
+
+
+/* pricing section  */
+.pricing-1{
+    box-shadow: 0 3px 20px -2px rgba(0, 0, 0, 0.1);
+    
+}
+.pricing-2{
+    box-shadow: 0 3px 20px -2px rgba(0, 0, 0, 0.1);
+    border-top: 4px solid #47b2e4 ;
+}
+.pricing-3{
+    box-shadow: 0 3px 20px -2px rgba(0, 0, 0, 0.1);
+    
+}
+.card-price{
+    background-color: white;
+    
+    
+}
+/* section end */
+
+/* contact section */
+.contact-1{
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+    border-top: 3px solid #47b2e4;
+    border-bottom: 3px solid #47b2e4;
+}
+.contact-2{
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+    border-top: 3px solid #47b2e4;
+    border-bottom: 3px solid #47b2e4;
+}
+.png-contact{
+    width: 40px;
+    
+        border-radius: 40px black;
+}
+.btn-submit{
+    width: 100px;
+}
+
+
+
+span{
+    color: aqua;
+}
+h1,h2,h3,h4,h5,h6{
+    color: #0023b2;
+}
